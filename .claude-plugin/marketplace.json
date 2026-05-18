@@ -1,0 +1,72 @@
+{
+  "name": "stripe",
+  "owner": {
+    "name": "Stripe"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/stripe-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "stripe-billing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-billing.git"
+      }
+    },
+    {
+      "name": "stripe-checkout",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-checkout.git"
+      }
+    },
+    {
+      "name": "stripe-climate",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-climate.git"
+      }
+    },
+    {
+      "name": "stripe-connect",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-connect.git"
+      }
+    },
+    {
+      "name": "stripe-identity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-identity.git"
+      }
+    },
+    {
+      "name": "stripe-issuing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-issuing.git"
+      }
+    },
+    {
+      "name": "stripe-radar",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-radar.git"
+      }
+    },
+    {
+      "name": "stripe-tax",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-tax.git"
+      }
+    },
+    {
+      "name": "stripe-terminal",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stripe-terminal.git"
+      }
+    }
+  ]
+}
